@@ -8,7 +8,7 @@ filename="${BASH_SOURCE[0]}"
 DIR=$(dirname "${filename}")
 if [[ -f "${DIR}/loading.sh" ]]; then
   chmod u+x "${DIR}/loading.sh"
-  sudo cp "${DIR}/loading.sh" /usr/local/bin/
+  sudo cp "${DIR}/loading.sh" /usr/local/bin/loading
   echo "Installation completed"
   echo "Run tool using: loading"
 else
