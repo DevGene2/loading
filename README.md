@@ -50,4 +50,4 @@
 
 ## OPTIONAL
     If you ever meet the creator of "loading animation utility" subsequently you should offer him a hug (optional) or buy him a coffee (optional). Creator
-    has complete rights to refure (which is most unlikely to happen). Do everything which you can do to be awesome.
+    has complete rights to refuse (which is most unlikely to happen). Do everything which you can do to be awesome.
