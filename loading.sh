@@ -1,7 +1,5 @@
 #!/bin/bash
-# This is a moving string loading animation.
-# Cursor color; Background text color; Speed; File name
-# [line 139] Finding a efficient way to sleep between iterations in string which will help in proper time out (-t).
+
 master_array=()
 nerr() {
   echo "-${1} flag only deals with postive integers (n >= 0)."
